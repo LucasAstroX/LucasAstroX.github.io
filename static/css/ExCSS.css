@@ -1,0 +1,24 @@
+.topRightCredits {
+  display: none;
+}
+h1.title.title-size-big {
+  margin: revert;
+}
+nav {
+    display: none;
+}
+::-webkit-scrollbar {
+  width: 13px;
+}
+::-webkit-scrollbar-track {
+  background: #000; 
+}
+::-webkit-scrollbar-thumb {
+  background: #303030; 
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #444444; 
+}
+::-webkit-scrollbar-corner {
+  background: #000; 
+}
