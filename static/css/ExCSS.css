@@ -4,9 +4,11 @@
 h1.title.title-size-big {
     margin: revert;
 }
+
 /*nav {
     display: none;
 }*/
+
 ::-webkit-scrollbar {
     width: 13px;
 }
